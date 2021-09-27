@@ -1,0 +1,16 @@
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.exe
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.deps.json
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.runtimeconfig.json
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.runtimeconfig.dev.json
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.dll
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\ref\FightingSim2.dll
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\bin\Debug\net5.0\FightingSim2.pdb
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.csproj.AssemblyReference.cache
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.AssemblyInfoInputs.cache
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.AssemblyInfo.cs
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.csproj.CoreCompileInputs.cache
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.dll
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\ref\FightingSim2.dll
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.pdb
+C:\Users\elliot.widell\Desktop\Programering\FightingSim2\FightingSim2\FightingSim2\obj\Debug\net5.0\FightingSim2.genruntimeconfig.cache
