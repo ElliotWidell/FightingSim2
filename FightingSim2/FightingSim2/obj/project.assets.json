@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\FightingSim2.csproj",
+      "projectUniqueName": "C:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\FightingSim2.csproj",
       "projectName": "FightingSim2",
-      "projectPath": "c:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\FightingSim2.csproj",
+      "projectPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\FightingSim2.csproj",
       "packagesPath": "C:\\Users\\elliot.widell\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\obj\\",
+      "outputPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\FightingSim2\\FightingSim2\\FightingSim2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elliot.widell\\AppData\\Roaming\\NuGet\\NuGet.Config"
